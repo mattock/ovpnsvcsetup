@@ -35,4 +35,5 @@ supposed to do. There are several missing parts right now:
 * Show status of an OpenVPN connection (enabled, disabled, active, inactive)
 * Enable/disable OpenVPN connections in NSSM
 * Add a simple text-based GUI (primarily for testing)
+* Add a real GUI for Windows (WPF most likely)
 * ... and other stuff
